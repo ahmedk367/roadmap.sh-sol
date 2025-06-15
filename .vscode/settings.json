@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "liveServer.settings.port": 5501
+=======
+    "liveServer.settings.multiRootWorkspaceName": "roadmap.sh-sol"
+>>>>>>> 8ac4766dd8fadfff25ba73c01008fbb30004dbc8
 }
